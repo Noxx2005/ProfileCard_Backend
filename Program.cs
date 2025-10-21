@@ -1,5 +1,11 @@
+using Microsoft.OpenApi.Models;
+using ProfileApi.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddSingleton<StringRepository>();
+builder.Services.AddSingleton<StringAnalyzerService>();
 // Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddHttpClient();
