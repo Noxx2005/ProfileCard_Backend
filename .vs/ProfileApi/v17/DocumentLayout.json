@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|c:\\users\\bot peter\\documents\\profilecard_backend\\controllers\\stringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|solutionrelative:controllers\\stringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|c:\\users\\bot peter\\documents\\profilecard_backend\\services\\stringanalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|solutionrelative:services\\stringanalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|c:\\users\\bot peter\\documents\\profilecard_backend\\services\\stringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|solutionrelative:services\\stringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|c:\\users\\bot peter\\documents\\profilecard_backend\\models\\analyzedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|solutionrelative:models\\analyzedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|c:\\users\\bot peter\\documents\\profilecard_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C44F5B-764E-4823-9A20-8254B2E30103}|ProfileApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 357,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +51,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringAnalyzerService.cs",
+              "DocumentMoniker": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Services\\StringAnalyzerService.cs",
+              "RelativeDocumentMoniker": "Services\\StringAnalyzerService.cs",
+              "ToolTip": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Services\\StringAnalyzerService.cs",
+              "RelativeToolTip": "Services\\StringAnalyzerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:50:56.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Services\\StringRepository.cs",
+              "RelativeDocumentMoniker": "Services\\StringRepository.cs",
+              "ToolTip": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Services\\StringRepository.cs",
+              "RelativeToolTip": "Services\\StringRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:45:14.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyzedString.cs",
+              "DocumentMoniker": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Models\\AnalyzedString.cs",
+              "RelativeDocumentMoniker": "Models\\AnalyzedString.cs",
+              "ToolTip": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Models\\AnalyzedString.cs",
+              "RelativeToolTip": "Models\\AnalyzedString.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:42:17.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:35:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringController.cs",
+              "DocumentMoniker": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Controllers\\StringController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StringController.cs",
+              "ToolTip": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\Controllers\\StringController.cs*",
+              "RelativeToolTip": "Controllers\\StringController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:35:22.954Z",
+              "EditorCaption": ""
             }
           ]
         }
