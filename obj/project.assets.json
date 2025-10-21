@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bot Peter\\source\\repos\\ProfileApi\\ProfileApi.csproj",
+      "projectUniqueName": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\ProfileApi.csproj",
       "projectName": "ProfileApi",
-      "projectPath": "C:\\Users\\Bot Peter\\source\\repos\\ProfileApi\\ProfileApi.csproj",
+      "projectPath": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\ProfileApi.csproj",
       "packagesPath": "C:\\Users\\Bot Peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bot Peter\\source\\repos\\ProfileApi\\obj\\",
+      "outputPath": "C:\\Users\\Bot Peter\\Documents\\ProfileCard_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bot Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -499,13 +499,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: An error occurred while sending the request."
-    }
-  ]
+  }
 }
